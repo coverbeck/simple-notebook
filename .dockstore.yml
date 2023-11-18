@@ -1,5 +1,5 @@
 version: 1.2
 notebooks:
-  - name: simple
-    path: /notebook.ipynb
+  - name: population
+    path: /notebooks/population.ipynb
     publish: true
